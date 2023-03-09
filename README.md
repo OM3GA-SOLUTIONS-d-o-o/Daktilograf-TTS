@@ -28,7 +28,7 @@ Daktilograf TTS comes with pretrained models, tools for measuring dataset qualit
 ![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/zoo_tests2.yml/badge.svg)
 [![Docs](<https://readthedocs.org/projects/tts/badge/?version=latest&style=plastic>)](https://tts.readthedocs.io/en/latest/)
 
-📰 [**Subscribe to 🐸Coqui.ai Newsletter**](https://daktilograf.om3ga.org)
+📰 [**Subscribe to Newsletter**](https://daktilograf.om3ga.org)
 
 📢 [South Slavic Voice Samples](#)
 
