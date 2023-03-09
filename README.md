@@ -1,37 +1,36 @@
-<img src="https://raw.githubusercontent.com/coqui-ai/TTS/main/images/coqui-log-green-TTS.png" height="56"/>
+<img src="https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT/blob/main/images/dakt-stt-gh.png?raw=true" height="56"/>
 
 ----
 
-### 📣 Clone your voice with a single click on [🐸Coqui.ai](https://app.coqui.ai/auth/signin)
+###
 
 ----
 
-🐸TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality.
-🐸TTS comes with pretrained models, tools for measuring dataset quality and already used in **20+ languages** for products and research projects.
+Daktilograf TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality.
+Daktilograf TTS comes with pretrained models, tools for measuring dataset quality and already used in **3+ languages** for products and research projects.
 
-[![Dicord](https://img.shields.io/discord/1037326658807533628?color=%239B59B6&label=chat%20on%20discord)](https://discord.gg/5eXr5seRrv)
 [![License](<https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg>)](https://opensource.org/licenses/MPL-2.0)
 [![PyPI version](https://badge.fury.io/py/TTS.svg)](https://badge.fury.io/py/TTS)
-[![Covenant](https://camo.githubusercontent.com/7d620efaa3eac1c5b060ece5d6aacfcc8b81a74a04d05cd0398689c01c4463bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667)](https://github.com/coqui-ai/TTS/blob/master/CODE_OF_CONDUCT.md)
+[![Covenant](https://camo.githubusercontent.com/7d620efaa3eac1c5b060ece5d6aacfcc8b81a74a04d05cd0398689c01c4463bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667)](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/blob/dev/CODE_OF_CONDUCT.md)
 [![Downloads](https://pepy.tech/badge/tts)](https://pepy.tech/project/tts)
 [![DOI](https://zenodo.org/badge/265612440.svg)](https://zenodo.org/badge/latestdoi/265612440)
 
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/aux_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/data_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/docker.yaml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/inference_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/style_check.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/text_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/tts_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/vocoder_tests.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/zoo_tests0.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/zoo_tests1.yml/badge.svg)
-![GithubActions](https://github.com/coqui-ai/TTS/actions/workflows/zoo_tests2.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/aux_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/data_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/docker.yaml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/inference_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/style_check.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/text_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/tts_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/vocoder_tests.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/zoo_tests0.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/zoo_tests1.yml/badge.svg)
+![GithubActions](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/actions/workflows/zoo_tests2.yml/badge.svg)
 [![Docs](<https://readthedocs.org/projects/tts/badge/?version=latest&style=plastic>)](https://tts.readthedocs.io/en/latest/)
 
-📰 [**Subscribe to 🐸Coqui.ai Newsletter**](https://coqui.ai/?subscription=true)
+📰 [**Subscribe to 🐸Coqui.ai Newsletter**](https://daktilograf.om3ga.org)
 
-📢 [English Voice Samples](https://erogol.github.io/ddc-samples/) and [SoundCloud playlist](https://soundcloud.com/user-565970875/pocket-article-wavernn-and-tacotron2)
+📢 [South Slavic Voice Samples](#)
 
 📄 [Text-to-Speech paper collection](https://github.com/erogol/TTS-papers)
 
@@ -47,26 +46,25 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 | 👩‍💻 **Usage Questions**          | [GitHub Discussions]                    |
 | 🗯 **General Discussion**       | [GitHub Discussions] or [Discord]   |
 
-[github issue tracker]: https://github.com/coqui-ai/tts/issues
-[github discussions]: https://github.com/coqui-ai/TTS/discussions
-[discord]: https://discord.gg/5eXr5seRrv
-[Tutorials and Examples]: https://github.com/coqui-ai/TTS/wiki/TTS-Notebooks-and-Tutorials
+[github issue tracker]: https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/issues
+[github discussions]: https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/discussions
+[Tutorials and Examples]: https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/wiki/TTS-Notebooks-and-Tutorials
 
 
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💼 **Documentation**              | [ReadTheDocs](https://tts.readthedocs.io/en/latest/)
-| 💾 **Installation**               | [TTS/README.md](https://github.com/coqui-ai/TTS/tree/dev#install-tts)|
-| 👩‍💻 **Contributing**               | [CONTRIBUTING.md](https://github.com/coqui-ai/TTS/blob/main/CONTRIBUTING.md)|
-| 📌 **Road Map**                   | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)
-| 🚀 **Released Models**            | [TTS Releases](https://github.com/coqui-ai/TTS/releases) and [Experimental Models](https://github.com/coqui-ai/TTS/wiki/Experimental-Released-Models)|
+| 💼 **Documentation**              | [ReadTheDocs](https://daktilograf-tts.readthedocs.io/en/latest/)
+| 💾 **Installation**               | [TTS/README.md](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/tree/dev#install-tts)|
+| 👩‍💻 **Contributing**               | [CONTRIBUTING.md](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/blob/main/CONTRIBUTING.md)|
+| 📌 **Road Map**                   | [Main Development Plans](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/issues/378)
+| 🚀 **Released Models**            | [TTS Releases](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/releases) and [Experimental Models](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/wiki/Experimental-Released-Models)|
 
 ## 🥇 TTS Performance
 <p align="center"><img src="https://raw.githubusercontent.com/coqui-ai/TTS/main/images/TTS-performance.png" width="800" /></p>
 
-Underlined "TTS*" and "Judy*" are 🐸TTS models
-<!-- [Details...](https://github.com/coqui-ai/TTS/wiki/Mean-Opinion-Score-Results) -->
+Underlined "TTS*" and "Judy*" are TTS models
+<!-- [Details...](https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/wiki/Mean-Opinion-Score-Results) -->
 
 ## Features
 - High-performance Deep Learning models for Text2Speech tasks.
@@ -126,18 +124,18 @@ Underlined "TTS*" and "Judy*" are 🐸TTS models
 You can also help us implement more models.
 
 ## Install TTS
-🐸TTS is tested on Ubuntu 18.04 with **python >= 3.7, < 3.11.**.
+Daktilograf TTS is tested on Ubuntu 18.04 with **python >= 3.7, < 3.11.**.
 
-If you are only interested in [synthesizing speech](https://tts.readthedocs.io/en/latest/inference.html) with the released 🐸TTS models, installing from PyPI is the easiest option.
+If you are only interested in [synthesizing speech](https://daktilograf-tts.readthedocs.io/en/latest/inference.html) with the released Daktilograf TTS models, installing from PyPI is the easiest option.
 
 ```bash
 pip install TTS
 ```
 
-If you plan to code or train models, clone 🐸TTS and install it locally.
+If you plan to code or train models, clone TTS and install it locally.
 
 ```bash
-git clone https://github.com/coqui-ai/TTS
+git clone https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS
 pip install -e .[all,dev,notebooks]  # Select the relevant extras
 ```
 
@@ -165,7 +163,7 @@ You can then enjoy the TTS server [here](http://[::1]:5002/)
 More details about the docker images (like GPU support) can be found [here](https://tts.readthedocs.io/en/latest/docker_images.html)
 
 
-## Synthesizing speech by 🐸TTS
+## Synthesizing speech by TTS
 
 ### 🐍 Python API
 
@@ -174,7 +172,7 @@ from TTS.api import TTS
 
 # Running a multi-speaker and multi-lingual model
 
-# List available 🐸TTS models and choose the first one
+# List available TTS models and choose the first one
 model_name = TTS.list_models()[0]
 # Init TTS
 tts = TTS(model_name)
